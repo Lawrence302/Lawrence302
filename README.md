@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lawrence302
-- 👀 I’m interested in Programming ang web development.
+- 👀 I’m interested in Programming and web development.
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on learning and studies related to web development
 - 📫 How to reach me ...
